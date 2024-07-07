@@ -1,0 +1,6 @@
+deeplake
+numpy
+scikit-image
+scikit-learn
+matplotlib
+tensorflow
